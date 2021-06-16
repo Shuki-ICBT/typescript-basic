@@ -1,2 +1,2 @@
-# typescript-basic
+# react-typescript-shuki
 Created with CodeSandbox
